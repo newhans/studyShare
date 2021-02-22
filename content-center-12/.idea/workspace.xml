@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e857c709-997c-4735-8678-4ff30ca2e1db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1odSqN86yRlYTClDUB9wNaRoIYl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ContentCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="content-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmuch.contentcenter.ContentCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e857c709-997c-4735-8678-4ff30ca2e1db" name="Default Changelist" comment="" />
+      <created>1613615163597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613615163597</updated>
+      <workItem from="1613615165007" duration="7705000" />
+      <workItem from="1614000187123" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="63" key="SettingsEditor" timestamp="1614000205051">
+      <screen x="0" y="25" width="1440" height="822" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.25.1440.822@0.25.1440.822" timestamp="1614000205051" />
+    <state x="126" y="87" key="new project wizard" timestamp="1613814786511">
+      <screen x="0" y="25" width="1440" height="826" />
+    </state>
+    <state x="126" y="87" key="new project wizard/0.25.1440.826@0.25.1440.826" timestamp="1613814786511" />
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1613961067108">
+      <screen x="0" y="25" width="1440" height="825" />
+    </state>
+    <state x="385" y="174" width="670" height="676" key="search.everywhere.popup/0.25.1440.825/-567.-1415.2560.1415@0.25.1440.825" timestamp="1613961067108" />
+  </component>
+</project>
